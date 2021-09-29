@@ -140,10 +140,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ### Preparação para próxima aula
     
 	* HTML
-		[] Posso ver e ouvir o HTML
-		[] Formulários de outro planeta
+		- [] Posso ver e ouvir o HTML
+		- [] Formulários de outro planeta
 	* CSS
-		[] Nem só de classes ou ID's
+		- [] Nem só de classes ou ID's
 
 ## :memo: Licença
 
