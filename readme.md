@@ -61,7 +61,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ### Conceitos
 
-1. O que é ser uma pessoa programadora?
+1. O que é ser uma pessoa programadora?<br/>
 	[x] Oportunidades
 		[x] Front-end
 		[x] Back-end
