@@ -62,82 +62,82 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ### Conceitos
 
 1. O que é ser uma pessoa programadora?<br/>
-	[x] Oportunidades
-		[x] Front-end
-		[x] Back-end
-		[x] Fullstack
-	[x] Mercado
-		[x] Local x Global
-		[x] Milhares de vagas
-		[x] Experiência
-	[x] Soft e Hard Skills
-	[x] Tecnologias e evolução
-	[x] Especialista vs Generalista
+	- [x] Oportunidades
+		- [x] Front-end
+		- [x] Back-end
+		- [x] Fullstack
+	- [x] Mercado
+		- [x] Local x Global
+		- [x] Milhares de vagas
+		- [x] Experiência
+	- [x] Soft e Hard Skills
+	- [x] Tecnologias e evolução
+	- [x] Especialista vs Generalista
 
 2. Guia de estudos e organização
-	[x] Pomodoro
-	[x] Tenha um lugar reservado para seu estudo
-		[x] Foco
-		[x] Silêncio
-		[x] Interrupções
-	[x] Aprendizado ativo x passivo
-		[x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
-		[x] Aprenda a ensinar: Repita o que você acabou de ver.
-	[x] Anotação e Revisão
-		[x] Anote mais após a aula
-		[x] Revise suas anotações e busque respostas para o que você
+	- [x] Pomodoro
+	- [x] Tenha um lugar reservado para seu estudo
+		- [x] Foco
+		- [x] Silêncio
+		- [x] Interrupções
+	- [x] Aprendizado ativo x passivo
+		- [x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
+		- [x] Aprenda a ensinar: Repita o que você acabou de ver.
+	- [x] Anotação e Revisão
+		- [x] Anote mais após a aula
+		- [x] Revise suas anotações e busque respostas para o que você
 		não entendeu
-	[x] Pesquisas
+	- [x] Pesquisas
 
 3. Navegando pela plataforma
-	[x] Comunidade
-	[x] Trilhas
-	[x] Cursos
+	- [x] Comunidade
+	- [x] Trilhas
+	- [x] Cursos
 
 4. Como acompanhar os vídeos
-	[x] Assista com o intuito de entender (você não precisa decorar)
-	[x] Code o bloco de código após entender o que foi feito
-	[x] Não tem problema não entender tudo de primeira, 
-	leva tempo e mais conhecimento para que as coisas façam sentido.
-	[x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
+	- [x] Assista com o intuito de entender (você não precisa decorar)
+	- [x] Code o bloco de código após entender o que foi feito
+	- [x] Não tem problema não entender tudo de primeira, 
+	- leva tempo e mais conhecimento para que as coisas façam sentido.
+	- [x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
 
 5. Mentalidade
-	[x] Você precisa de tempo
-		[x] Descanso faz parte do aprendizado (sono)
-		[x] O cérebro precisa de tempo para assimilar as coisas
-	[x] Você precisa ter persistência
-	[x] Programar é encontrar soluções!
-	[x] "Eu não sou tão bom quanto ... "
-	[x] "Eu sinto que estou só copiando e colando"
-	[x] Você gosta do que está fazendo?
+	- [x] Você precisa de tempo
+		- [x] Descanso faz parte do aprendizado (sono)
+		- [x] O cérebro precisa de tempo para assimilar as coisas
+	- [x] Você precisa ter persistência
+	- [x] Programar é encontrar soluções!
+	- [x] "Eu não sou tão bom quanto ... "
+	- [x] "Eu sinto que estou só copiando e colando"
+	- [x] Você gosta do que está fazendo?
 
 6. Bora Codar
-	[x] Estrutura da aplicação com HTML
-	[] Estilização com CSS
+	- [x] Estrutura da aplicação com HTML
+	- [] Estilização com CSS
 
 
 7. Vamos ver o que veremos na próxima semana?
 
 ## Tarefa 02: Assistir aos cursos/aulas
 
-	### Revisão
+### Revisão
 
 	* HTML
-		[] O guia estelar de HTML
-		[] HTML que faz sentido para todos
+		- [] O guia estelar de HTML
+		- [] HTML que faz sentido para todos
 	* CSS
-		[] O guia estelar de CSS
-		[] Nem tudo são pixels
-		[] Uma caixa dentro da outra
-		[] App bonito até nos textos
+		- [] O guia estelar de CSS
+		- [] Nem tudo são pixels
+		- [] Uma caixa dentro da outra
+		- [] App bonito até nos textos
 	* Guia estelar de HTTP
-		[] 1. Entendendo
-			[] Visão geral
-			[] Visualizando a comunicação
-		[] 2. Conceitos (com exceção da aula de proxies)
-		[] 3. URI (com exceção da aula de URN)
+		- [] 1. Entendendo
+			- [] Visão geral
+			- [] Visualizando a comunicação
+		- [] 2. Conceitos (com exceção da aula de proxies)
+		- [] 3. URI (com exceção da aula de URN)
 
-	### Preparação para próxima aula
+### Preparação para próxima aula
     
 	* HTML
 		[] Posso ver e ouvir o HTML
