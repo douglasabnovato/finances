@@ -50,72 +50,72 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 * Nosso time estará na comunidade para tirar dúvidas e te deixar por dentro de tudo.
 
 ### Qual a proposta deste projeto?
-	[] Organização e estudo
-	[] Plataforma e Comunidade
-	[] Mentalidade Dev
-	[] Praticar as tecnologias do Discover
+	[x] Organização e estudo
+	[x] Plataforma e Comunidade
+	[x] Mentalidade Dev
+	[x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	[] Clareza prática
-	[] Entendimento da plataforma e comunidade 
-	[] Projeto aplicando os conceitos do Discover
-	[] Bases necessárias para continuar sua jornada
+	[x] Clareza prática
+	[x] Entendimento da plataforma e comunidade 
+	[x] Projeto aplicando os conceitos do Discover
+	[x] Bases necessárias para continuar sua jornada
 	
 
 ### Conceitos
 
 1. O que é ser uma pessoa programadora?
-	[] Oportunidades
-		[] Front-end
-		[] Back-end
-		[] Fullstack
-	[] Mercado
-		[] Local x Global
-		[] Milhares de vagas
-		[] Experiência
-	[] Soft e Hard Skills
-	[] Tecnologias e evolução
-	[] Especialista vs Generalista
+	[x] Oportunidades
+		[x] Front-end
+		[x] Back-end
+		[x] Fullstack
+	[x] Mercado
+		[x] Local x Global
+		[x] Milhares de vagas
+		[x] Experiência
+	[x] Soft e Hard Skills
+	[x] Tecnologias e evolução
+	[x] Especialista vs Generalista
 
 2. Guia de estudos e organização
-	[] Pomodoro
-	[] Tenha um lugar reservado para seu estudo
-		[] Foco
-		[] Silêncio
-		[] Interrupções
-	[] Aprendizado ativo x passivo
-		[] Aprenda a se perguntar: Se pergunte o que você acabou de ver
-		[] Aprenda a ensinar: Repita o que você acabou de ver.
-	[] Anotação e Revisão
-		[] Anote mais após a aula
-		[] Revise suas anotações e busque respostas para o que você
+	[x] Pomodoro
+	[x] Tenha um lugar reservado para seu estudo
+		[x] Foco
+		[x] Silêncio
+		[x] Interrupções
+	[x] Aprendizado ativo x passivo
+		[x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
+		[x] Aprenda a ensinar: Repita o que você acabou de ver.
+	[x] Anotação e Revisão
+		[x] Anote mais após a aula
+		[x] Revise suas anotações e busque respostas para o que você
 		não entendeu
-	[] Pesquisas
+	[x] Pesquisas
 
 3. Navegando pela plataforma
-	[] Comunidade
-	[] Trilhas
-	[] Cursos
+	[x] Comunidade
+	[x] Trilhas
+	[x] Cursos
 
 4. Como acompanhar os vídeos
-	[] Assista com o intuito de entender (você não precisa decorar)
-	[] Code o bloco de código após entender o que foi feito
-	[] Não tem problema não entender tudo de primeira, 
+	[x] Assista com o intuito de entender (você não precisa decorar)
+	[x] Code o bloco de código após entender o que foi feito
+	[x] Não tem problema não entender tudo de primeira, 
 	leva tempo e mais conhecimento para que as coisas façam sentido.
-	[] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
+	[x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
 
 5. Mentalidade
-	[] Você precisa de tempo
-		[] Descanso faz parte do aprendizado (sono)
-		[] O cérebro precisa de tempo para assimilar as coisas
-	[] Você precisa ter persistência
-	[] Programar é encontrar soluções!
-	[] "Eu não sou tão bom quanto ... "
-	[] "Eu sinto que estou só copiando e colando"
-	[] Você gosta do que está fazendo?
+	[x] Você precisa de tempo
+		[x] Descanso faz parte do aprendizado (sono)
+		[x] O cérebro precisa de tempo para assimilar as coisas
+	[x] Você precisa ter persistência
+	[x] Programar é encontrar soluções!
+	[x] "Eu não sou tão bom quanto ... "
+	[x] "Eu sinto que estou só copiando e colando"
+	[x] Você gosta do que está fazendo?
 
 6. Bora Codar
-	[] Estrutura da aplicação com HTML
+	[x] Estrutura da aplicação com HTML
 	[] Estilização com CSS
 
 
