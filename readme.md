@@ -113,7 +113,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 6. Bora Codar
 	- [x] Estrutura da aplicação com HTML
-	- [] Estilização com CSS
+	- [x] Estilização com CSS
 
 
 7. Vamos ver o que veremos na próxima semana?
