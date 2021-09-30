@@ -40,7 +40,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 💻🔖 Notion 
 
-### O que vamos ver hoje?
+### O que vamos ver hoje - parte 1?
 
 * A aula vai ficar gravada
 * Nesse curso veremos o front-end
@@ -123,27 +123,27 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ### Revisão
 
 	* HTML
-		- [] O guia estelar de HTML
-		- [] HTML que faz sentido para todos
+		- [x] O guia estelar de HTML
+		- [x] HTML que faz sentido para todos
 	* CSS
-		- [] O guia estelar de CSS
-		- [] Nem tudo são pixels
-		- [] Uma caixa dentro da outra
-		- [] App bonito até nos textos
+		- [x] O guia estelar de CSS
+		- [x] Nem tudo são pixels
+		- [x] Uma caixa dentro da outra
+		- [x] App bonito até nos textos
 	* Guia estelar de HTTP
-		- [] 1. Entendendo
-			- [] Visão geral
-			- [] Visualizando a comunicação
-		- [] 2. Conceitos (com exceção da aula de proxies)
-		- [] 3. URI (com exceção da aula de URN)
+		- [x] 1. Entendendo
+			- [x] Visão geral
+			- [x] Visualizando a comunicação
+		- [x] 2. Conceitos (com exceção da aula de proxies)
+		- [x] 3. URI (com exceção da aula de URN)
 
 ### Preparação para próxima aula
     
 	* HTML
-		- [] Posso ver e ouvir o HTML
-		- [] Formulários de outro planeta
+		- [x] Posso ver e ouvir o HTML
+		- [x] Formulários de outro planeta
 	* CSS
-		- [] Nem só de classes ou ID's
+		- [x] Nem só de classes ou ID's
 
 ## :memo: Licença
 
