@@ -122,28 +122,28 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ### Revisão
 
-	* HTML
-		- [x] O guia estelar de HTML
-		- [x] HTML que faz sentido para todos
-	* CSS
-		- [x] O guia estelar de CSS
-		- [x] Nem tudo são pixels
-		- [x] Uma caixa dentro da outra
-		- [x] App bonito até nos textos
-	* Guia estelar de HTTP
-		- [x] 1. Entendendo
-			- [x] Visão geral
-			- [x] Visualizando a comunicação
-		- [x] 2. Conceitos (com exceção da aula de proxies)
-		- [x] 3. URI (com exceção da aula de URN)
+#### HTML
+- [x] O guia estelar de HTML
+- [x] HTML que faz sentido para todos
+#### CSS
+- [x] O guia estelar de CSS
+- [x] Nem tudo são pixels
+- [x] Uma caixa dentro da outra
+- [x] App bonito até nos textos
+ #### Guia estelar de HTTP
+- [x] 1. Entendendo
+	- [x] Visão geral
+	- [x] Visualizando a comunicação
+- [x] 2. Conceitos (com exceção da aula de proxies)
+- [x] 3. URI (com exceção da aula de URN)
 
 ### Preparação para próxima aula
     
-	* HTML
-		- [x] Posso ver e ouvir o HTML
-		- [x] Formulários de outro planeta
-	* CSS
-		- [x] Nem só de classes ou ID's
+#### HTML
+- [x] Posso ver e ouvir o HTML
+- [x] Formulários de outro planeta
+#### CSS
+- [x] Nem só de classes ou ID's
 	
 ### O que vamos ver hoje - parte 2?
 
@@ -180,7 +180,7 @@ te deixar por dentro de tudo.
 
 ## O que rolou na primeira aula
 
-* Soft Skills
+#### Soft Skills
 - [x] O que é ser uma pessoa programadora
 - [x] Oportunidades e mercado
 - [x] Organização e estudos
@@ -190,7 +190,8 @@ te deixar por dentro de tudo.
 - [x] Mentalidade
 	- [x] Tempo, Descanso, Persistência, Síndrome do impostor
 	- [x] Você gosta do que está fazendo?
-* Hard Skills (prática)
+
+#### Hard Skills (prática)
 - [x] HTML
 	- [x] Estrutura base
 	- [x] Tags semânticas
@@ -203,14 +204,14 @@ te deixar por dentro de tudo.
 ## Tarefa 03: Assistir aos cursos/aulas
  ### Revisão
 
-	* HTML
-		- [x] Posso ver e ouvir o HTML
-		- [x] Formulários de outro planeta
-	* CSS
-		- [x] Nem só de classes ou ID's
+#### HTML
+- [x] Posso ver e ouvir o HTML
+- [x] Formulários de outro planeta
+#### CSS
+- [x] Nem só de classes ou ID's
  ### Para acompanhar a próxima aula
 
-	* - [x] O guia estelar de JavaScript
+- [x] O guia estelar de JavaScript
 
 ## :memo: Licença
 
