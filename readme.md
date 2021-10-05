@@ -211,15 +211,14 @@ te deixar por dentro de tudo.
 
 __Javascript__
 
-[] Objetos
-[] Tipos e estrutura de dados
-[] If/else
-[] Erros
-[] Funcionalidades
-[] Adicionar e remover transações
-[] Calcular
-[] Salvar no localStorage
-
+- [] Objetos
+- [] Tipos e estrutura de dados
+- [] If/else
+- [] Erros
+- [] Funcionalidades
+- [] Adicionar e remover transações
+- [] Calcular
+- [] Salvar no localStorage
 
 ### Lembretes
 * A aula vai ficar gravada
@@ -227,7 +226,6 @@ __Javascript__
 * Essa é uma continuação da aula passada
 * Nosso time estará na comunidade para 
 tirar dúvidas e te deixar por dentro de tudo.
-
 
 ### Qual a proposta desta Maratona?
 	[] Organização e estudo
@@ -241,8 +239,7 @@ tirar dúvidas e te deixar por dentro de tudo.
 	[] Projeto aplicando os conceitos do Discover
 	[] Bases necessárias para continuar sua jornada
 	
-
-## O que rolou até aqui?
+### O que rolou até aqui?
 
 * Soft Skills
 [] O que é ser uma pessoa programadora?
