@@ -138,7 +138,7 @@ header h1#logo{
 }
 
 .card.total{
-    background: var(--green)
+    background: var(--green);
     color: white;
 }
 
