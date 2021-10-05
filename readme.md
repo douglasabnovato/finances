@@ -118,8 +118,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 7. Vamos ver o que veremos na próxima semana?
 
-## Tarefa 02: Assistir aos cursos/aulas
-
 ### Revisão
 
 #### HTML
@@ -130,7 +128,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - [x] Nem tudo são pixels
 - [x] Uma caixa dentro da outra
 - [x] App bonito até nos textos
- #### Guia estelar de HTTP
+#### Guia estelar de HTTP
 - [x] 1. Entendendo
 	- [x] Visão geral
 	- [x] Visualizando a comunicação
@@ -145,7 +143,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 #### CSS
 - [x] Nem só de classes ou ID's 
 
-### O que vamos ver hoje - parte 2?
+## O que vamos ver hoje - parte 2?
 
 __Finalização do HTML + CSS__
 
@@ -157,12 +155,11 @@ __Finalização do HTML + CSS__
 - [x] Modal
 - [x] Uma pitadinha de JavaScript
 
-## Lembretes
+### Lembretes
 * A aula vai ficar gravada
 * Continuação da aula passada
 * Nosso time estará na comunidade para tirar dúvidas e 
 te deixar por dentro de tudo.
-
 
 ### Qual a proposta desta Maratona?
 	- [x] Organização e estudo
@@ -176,7 +173,7 @@ te deixar por dentro de tudo.
 	- [x] Projeto aplicando os conceitos do Discover
 	- [x] Bases necessárias para continuar sua jornada 
 
-## O que rolou na primeira aula
+### O que rolou na primeira aula
 
 #### Soft Skills
 - [x] O que é ser uma pessoa programadora
@@ -197,18 +194,15 @@ te deixar por dentro de tudo.
 	- [x] Box Model
 	- [x] Fontes e Cores
 	- [x] Seletores, Valores, Classes e IDs
-# Bora Codar!
-
-## Tarefa 03: Assistir aos cursos/aulas
- ### Revisão
+#### Bora Codar! 
+### Revisão
 
 #### HTML
 - [x] Posso ver e ouvir o HTML
 - [x] Formulários de outro planeta
 #### CSS
 - [x] Nem só de classes ou ID's
- ### Para acompanhar a próxima aula
-
+### Para acompanhar a próxima aula
 - [x] O guia estelar de JavaScript
 
 ## :memo: Licença
