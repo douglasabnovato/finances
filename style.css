@@ -110,11 +110,16 @@ header h1#logo{
 }
 
 /* Table */
+#transaction{
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+
 #data-table{
     width:100%;
     border-spacing: 0 0.5rem; 
-    color: #969cb3;
-    overflow-x: auto;
+    color: #969cb3; 
 }
 
 table thead tr td:first-child,
@@ -165,6 +170,29 @@ td.date{
     color: var(--dark-blue);
 }
 
+/* Modal */
+.modal-overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal-overlay.active{
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal{
+    background: #f0f2f5;
+    padding: 2.4rem;
+}
 
 /* Footer */
 footer{
