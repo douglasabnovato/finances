@@ -210,7 +210,6 @@ te deixar por dentro de tudo.
 ## O que vamos ver hoje - parte 3?
 
 __Javascript__
-
 [] Objetos
 [] Tipos e estrutura de dados
 [] If/else
