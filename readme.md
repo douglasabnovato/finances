@@ -22,6 +22,8 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
+---
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -205,10 +207,10 @@ te deixar por dentro de tudo.
 ### Para acompanhar a próxima aula
 - [x] O guia estelar de JavaScript
 
----
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. 
+
+---
 
 Feito com ♥ by [douglasabnovato!](https://www.linkedin.com/in/douglasabnovato/) :wave: 
