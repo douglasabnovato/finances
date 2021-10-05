@@ -241,32 +241,31 @@ tirar dúvidas e te deixar por dentro de tudo.
 	
 ### O que rolou até aqui?
 
-* Soft Skills
-[] O que é ser uma pessoa programadora?
-[] Oportunidades e mercado
-[] Organização e estudos
-	[] Foco, Local, Aprendizado ativo, Revisões, 
-	Pesquisas
-[] Navegamos pela plataforma
-[] Dicas de como acompanhar as aulas
-[] Mentalidade
-	[] Tempo, Descanso, Persistência, 
-	Síndrome do impostor
-	[] Você gosta do que está fazendo?
-
-* Hard Skills (prática)
-[] HTML e CSS pra deixar a aplicação completa
-[] Beliscadinha no JavaScript
+	* Soft Skills
+		[] O que é ser uma pessoa programadora?
+		[] Oportunidades e mercado
+		[] Organização e estudos
+			[] Foco, Local, Aprendizado ativo, Revisões, 
+			Pesquisas
+		[] Navegamos pela plataforma
+		[] Dicas de como acompanhar as aulas
+		[] Mentalidade
+			[] Tempo, Descanso, Persistência, 
+			Síndrome do impostor
+			[] Você gosta do que está fazendo? 
+	* Hard Skills (prática)
+		[] HTML e CSS pra deixar a aplicação completa
+		[] Beliscadinha no JavaScript
 
 ### Bora Codar!
 
 ### Tarefa 04: Assistir aos cursos/aulas
 	### Revisão
-	* [] O guia estelar de JavaScript
+	[] O guia estelar de JavaScript
 	### Assistir
-	* [] O Guia Estelar de Git
-	* [] O Guia EStelar de Github
-	* [] Pilotando com a DOM
+	[] O Guia Estelar de Git
+	[] O Guia EStelar de Github
+	[] Pilotando com a DOM
 	### Colocar o código final no Github
 
 ## :memo: Licença
