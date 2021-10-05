@@ -211,14 +211,14 @@ te deixar por dentro de tudo.
 
 __Javascript__
 
-- [] Objetos
-- [] Tipos e estrutura de dados
-- [] If/else
-- [] Erros
-- [] Funcionalidades
-- [] Adicionar e remover transações
-- [] Calcular
-- [] Salvar no localStorage
+[] Objetos
+[] Tipos e estrutura de dados
+[] If/else
+[] Erros
+[] Funcionalidades
+[] Adicionar e remover transações
+[] Calcular
+[] Salvar no localStorage
 
 ### Lembretes
 * A aula vai ficar gravada
