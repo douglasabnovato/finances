@@ -36,6 +36,14 @@ body{
 .container{
     width: min(90vw, 800px);
     margin: auto;
+} 
+
+/* Titles */
+h2{
+    margin-top: 3.2rem;
+    margin-bottom: 0.8rem;
+    color: var(--dark-blue);
+    font-weight: normal;
 }
 
 /* Links and Buttons */
@@ -83,24 +91,16 @@ button:hover{
     opacity: 1;
 }
 
-/* Titles */
-h2{
-    margin-top: 3.2rem;
-    margin-bottom: 0.8rem;
-    color: var(--dark-blue);
-    font-weight: normal;
-}
-
 /* Header */
-header{
-    background: #2d4a22; 
-    padding: 2rem 0 10rem;   
+header {
+    background: #2D4A22;
+    padding: 2rem 0 10rem;
     text-align: center;
 }
 
-header h1#logo{
+#logo {
     color: #fff;
-    font-weight: 100; 
+    font-weight: 100;
 }
 
 /* Balance */
@@ -215,6 +215,7 @@ td.date{
     justify-content: center;
     opacity: 0;
     visibility: hidden;
+    z-index: 999;
 }
 
 .modal-overlay.active{
@@ -225,6 +226,8 @@ td.date{
 .modal{
     background: #f0f2f5;
     padding: 2.4rem;
+    position: relative;
+    z-index: 1;
 }
 
 /* Form */
@@ -244,22 +247,22 @@ input{
     width: 100%;
 }
 
-input-group{
+.input-group{
     margin-top: 0.8rem;
 }
 
-input-group small{
+.input-group small{
     opacity: 0.4;
 }
 
-input-group.actions{
+.input-group.actions{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-input-group.actions .button,
-input-group.actions button{
+.input-group.actions .button,
+.input-group.actions button{
     width: 48%;
 }
 
