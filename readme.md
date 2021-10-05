@@ -143,11 +143,9 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - [x] Posso ver e ouvir o HTML
 - [x] Formulários de outro planeta
 #### CSS
-- [x] Nem só de classes ou ID's
-	
-### O que vamos ver hoje - parte 2?
+- [x] Nem só de classes ou ID's 
 
-## O que vamos ver hoje?
+### O que vamos ver hoje - parte 2?
 
 __Finalização do HTML + CSS__
 
