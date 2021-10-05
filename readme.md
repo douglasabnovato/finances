@@ -227,44 +227,44 @@ __Javascript__
 tirar dúvidas e te deixar por dentro de tudo.
 
 ### Qual a proposta desta Maratona?
-	[] Organização e estudo
-	[] Plataforma e Comunidade
-	[] Mentalidade Dev
-	[] Praticar as tecnologias do curso Discover
+	[x] Organização e estudo
+	[x] Plataforma e Comunidade
+	[x] Mentalidade Dev
+	[x] Praticar as tecnologias do curso Discover
 
 ### O que você vai ganhar com isso?
-	[] Clareza prática
-	[] Entendimento da plataforma e comunidade 
-	[] Projeto aplicando os conceitos do Discover
-	[] Bases necessárias para continuar sua jornada
+	[x] Clareza prática
+	[x] Entendimento da plataforma e comunidade 
+	[x] Projeto aplicando os conceitos do Discover
+	[x] Bases necessárias para continuar sua jornada
 	
 ### O que rolou até aqui?
 
 	* Soft Skills
-		[] O que é ser uma pessoa programadora?
-		[] Oportunidades e mercado
-		[] Organização e estudos
-			[] Foco, Local, Aprendizado ativo, Revisões, 
+		[x] O que é ser uma pessoa programadora?
+		[x] Oportunidades e mercado
+		[x] Organização e estudos
+			[x] Foco, Local, Aprendizado ativo, Revisões, 
 			Pesquisas
-		[] Navegamos pela plataforma
-		[] Dicas de como acompanhar as aulas
-		[] Mentalidade
-			[] Tempo, Descanso, Persistência, 
+		[x] Navegamos pela plataforma
+		[x] Dicas de como acompanhar as aulas
+		[x] Mentalidade
+			[x] Tempo, Descanso, Persistência, 
 			Síndrome do impostor
-			[] Você gosta do que está fazendo? 
+			[x] Você gosta do que está fazendo? 
 	* Hard Skills (prática)
-		[] HTML e CSS pra deixar a aplicação completa
-		[] Beliscadinha no JavaScript
+		[x] HTML e CSS pra deixar a aplicação completa
+		[x] Beliscadinha no JavaScript
 
 ### Bora Codar!
 
 ### Tarefa 04: Assistir aos cursos/aulas
 	### Revisão
-	[] O guia estelar de JavaScript
+	[x] O guia estelar de JavaScript
 	### Assistir
-	[] O Guia Estelar de Git
-	[] O Guia EStelar de Github
-	[] Pilotando com a DOM
+	[x] O Guia Estelar de Git
+	[x] O Guia EStelar de Github
+	[x] Pilotando com a DOM
 	### Colocar o código final no Github
 
 ## :memo: Licença
