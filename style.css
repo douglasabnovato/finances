@@ -9,6 +9,10 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 93.75%;
+}
+
 body{ 
     background: #f0f2f5;
     font-family: 'Poppins', sans-serif;
@@ -43,7 +47,7 @@ a:hover{
 
 .button.new{
     display: inline-block;
-    margin-bottom: 8rem;    
+    margin-bottom: 1rem;    
 }
 
 /* Titles */
@@ -110,6 +114,7 @@ header h1#logo{
     width:100%;
     border-spacing: 0 0.5rem; 
     color: #969cb3;
+    overflow-x: auto;
 }
 
 table thead tr td:first-child,
@@ -167,4 +172,18 @@ footer{
     padding: 4rem 0 2rem;
     color: var(--dark-blue);
     opacity: 0.6;
+}
+
+/* Responsividade */
+@media (min-width: 800px) {
+
+    html{
+        font-size: 87.5%;
+    }
+
+    #balance{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
 }
