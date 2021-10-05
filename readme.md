@@ -47,73 +47,73 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 * Nosso time estará na comunidade para tirar dúvidas e te deixar por dentro de tudo.
 
 ### Qual a proposta deste projeto?
-	[x] Organização e estudo
-	[x] Plataforma e Comunidade
-	[x] Mentalidade Dev
-	[x] Praticar as tecnologias do Discover
+	- [x] Organização e estudo
+	- [x] Plataforma e Comunidade
+	- [x] Mentalidade Dev
+	- [x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	[x] Clareza prática
-	[x] Entendimento da plataforma e comunidade 
-	[x] Projeto aplicando os conceitos do Discover
-	[x] Bases necessárias para continuar sua jornada
+	- [x] Clareza prática
+	- [x] Entendimento da plataforma e comunidade 
+	- [x] Projeto aplicando os conceitos do Discover
+	- [x] Bases necessárias para continuar sua jornada
 	
 
 ### Conceitos
 
 1. O que é ser uma pessoa programadora?<br/>
-	- [x] Oportunidades
-		- [x] Front-end
-		- [x] Back-end
-		- [x] Fullstack
-	- [x] Mercado
-		- [x] Local x Global
-		- [x] Milhares de vagas
-		- [x] Experiência
-	- [x] Soft e Hard Skills
-	- [x] Tecnologias e evolução
-	- [x] Especialista vs Generalista
+	- - [x] Oportunidades
+		- - [x] Front-end
+		- - [x] Back-end
+		- - [x] Fullstack
+	- - [x] Mercado
+		- - [x] Local x Global
+		- - [x] Milhares de vagas
+		- - [x] Experiência
+	- - [x] Soft e Hard Skills
+	- - [x] Tecnologias e evolução
+	- - [x] Especialista vs Generalista
 
 2. Guia de estudos e organização
-	- [x] Pomodoro
-	- [x] Tenha um lugar reservado para seu estudo
-		- [x] Foco
-		- [x] Silêncio
-		- [x] Interrupções
-	- [x] Aprendizado ativo x passivo
-		- [x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
-		- [x] Aprenda a ensinar: Repita o que você acabou de ver.
-	- [x] Anotação e Revisão
-		- [x] Anote mais após a aula
-		- [x] Revise suas anotações e busque respostas para o que você
+	- - [x] Pomodoro
+	- - [x] Tenha um lugar reservado para seu estudo
+		- - [x] Foco
+		- - [x] Silêncio
+		- - [x] Interrupções
+	- - [x] Aprendizado ativo x passivo
+		- - [x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
+		- - [x] Aprenda a ensinar: Repita o que você acabou de ver.
+	- - [x] Anotação e Revisão
+		- - [x] Anote mais após a aula
+		- - [x] Revise suas anotações e busque respostas para o que você
 		não entendeu
-	- [x] Pesquisas
+	- - [x] Pesquisas
 
 3. Navegando pela plataforma
-	- [x] Comunidade
-	- [x] Trilhas
-	- [x] Cursos
+	- - [x] Comunidade
+	- - [x] Trilhas
+	- - [x] Cursos
 
 4. Como acompanhar os vídeos
-	- [x] Assista com o intuito de entender (você não precisa decorar)
-	- [x] Code o bloco de código após entender o que foi feito
-	- [x] Não tem problema não entender tudo de primeira, 
+	- - [x] Assista com o intuito de entender (você não precisa decorar)
+	- - [x] Code o bloco de código após entender o que foi feito
+	- - [x] Não tem problema não entender tudo de primeira, 
 	- leva tempo e mais conhecimento para que as coisas façam sentido.
-	- [x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
+	- - [x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
 
 5. Mentalidade
-	- [x] Você precisa de tempo
-		- [x] Descanso faz parte do aprendizado (sono)
-		- [x] O cérebro precisa de tempo para assimilar as coisas
-	- [x] Você precisa ter persistência
-	- [x] Programar é encontrar soluções!
-	- [x] "Eu não sou tão bom quanto ... "
-	- [x] "Eu sinto que estou só copiando e colando"
-	- [x] Você gosta do que está fazendo?
+	- - [x] Você precisa de tempo
+		- - [x] Descanso faz parte do aprendizado (sono)
+		- - [x] O cérebro precisa de tempo para assimilar as coisas
+	- - [x] Você precisa ter persistência
+	- - [x] Programar é encontrar soluções!
+	- - [x] "Eu não sou tão bom quanto ... "
+	- - [x] "Eu sinto que estou só copiando e colando"
+	- - [x] Você gosta do que está fazendo?
 
 6. Bora Codar
-	- [x] Estrutura da aplicação com HTML
-	- [x] Estilização com CSS
+	- - [x] Estrutura da aplicação com HTML
+	- - [x] Estilização com CSS
 
 
 7. Vamos ver o que veremos na próxima semana?
@@ -123,27 +123,27 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ### Revisão
 
 	* HTML
-		- [x] O guia estelar de HTML
-		- [x] HTML que faz sentido para todos
+		- - [x] O guia estelar de HTML
+		- - [x] HTML que faz sentido para todos
 	* CSS
-		- [x] O guia estelar de CSS
-		- [x] Nem tudo são pixels
-		- [x] Uma caixa dentro da outra
-		- [x] App bonito até nos textos
+		- - [x] O guia estelar de CSS
+		- - [x] Nem tudo são pixels
+		- - [x] Uma caixa dentro da outra
+		- - [x] App bonito até nos textos
 	* Guia estelar de HTTP
-		- [x] 1. Entendendo
-			- [x] Visão geral
-			- [x] Visualizando a comunicação
-		- [x] 2. Conceitos (com exceção da aula de proxies)
-		- [x] 3. URI (com exceção da aula de URN)
+		- - [x] 1. Entendendo
+			- - [x] Visão geral
+			- - [x] Visualizando a comunicação
+		- - [x] 2. Conceitos (com exceção da aula de proxies)
+		- - [x] 3. URI (com exceção da aula de URN)
 
 ### Preparação para próxima aula
     
 	* HTML
-		- [x] Posso ver e ouvir o HTML
-		- [x] Formulários de outro planeta
+		- - [x] Posso ver e ouvir o HTML
+		- - [x] Formulários de outro planeta
 	* CSS
-		- [x] Nem só de classes ou ID's
+		- - [x] Nem só de classes ou ID's
 	
 ### O que vamos ver hoje - parte 2?
 
@@ -151,13 +151,13 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 __Finalização do HTML + CSS__
 
-[x] Imagens
-[x] Acessibilidade
-[x] Disposição dos elementos na página
-[x] Responsividade
-[x] Formulário para cadastro de dados
-[x] Modal
-[x] Uma pitadinha de JavaScript
+- [x] Imagens
+- [x] Acessibilidade
+- [x] Disposição dos elementos na página
+- [x] Responsividade
+- [x] Formulário para cadastro de dados
+- [x] Modal
+- [x] Uma pitadinha de JavaScript
 
 ## Lembretes
 * A aula vai ficar gravada
@@ -167,50 +167,50 @@ te deixar por dentro de tudo.
 
 
 ### Qual a proposta desta Maratona?
-	[x] Organização e estudo
-	[x] Plataforma e Comunidade
-	[x] Mentalidade Dev
-	[x] Praticar as tecnologias do Discover
+	- [x] Organização e estudo
+	- [x] Plataforma e Comunidade
+	- [x] Mentalidade Dev
+	- [x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	[x] Clareza prática
-	[x] Entendimento da plataforma e comunidade 
-	[x] Projeto aplicando os conceitos do Discover
-	[x] Bases necessárias para continuar sua jornada 
+	- [x] Clareza prática
+	- [x] Entendimento da plataforma e comunidade 
+	- [x] Projeto aplicando os conceitos do Discover
+	- [x] Bases necessárias para continuar sua jornada 
 
 ## O que rolou na primeira aula
 
 * Soft Skills
-[x] O que é ser uma pessoa programadora
-[x] Oportunidades e mercado
-[x] Organização e estudos
+- [x] O que é ser uma pessoa programadora
+- [x] Oportunidades e mercado
+- [x] Organização e estudos
 	[] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
-[x] Navegamos pela plataforma
-[x] Dicas de como acompanhar as aulas
-[x] Mentalidade
-	[x] Tempo, Descanso, Persistência, Síndrome do impostor
-	[x] Você gosta do que está fazendo?
+- [x] Navegamos pela plataforma
+- [x] Dicas de como acompanhar as aulas
+- [x] Mentalidade
+	- [x] Tempo, Descanso, Persistência, Síndrome do impostor
+	- [x] Você gosta do que está fazendo?
 * Hard Skills (prática)
-[x] HTML
-	[x] Estrutura base
-	[x] Tags semânticas
-[x] CSS
-	[x] Box Model
-	[x] Fontes e Cores
-	[x] Seletores, Valores, Classes e IDs
+- [x] HTML
+	- [x] Estrutura base
+	- [x] Tags semânticas
+- [x] CSS
+	- [x] Box Model
+	- [x] Fontes e Cores
+	- [x] Seletores, Valores, Classes e IDs
 # Bora Codar!
 
 ## Tarefa 03: Assistir aos cursos/aulas
  ### Revisão
 
 	* HTML
-		[x] Posso ver e ouvir o HTML
-		[x] Formulários de outro planeta
+		- [x] Posso ver e ouvir o HTML
+		- [x] Formulários de outro planeta
 	* CSS
-		[x] Nem só de classes ou ID's
+		- [x] Nem só de classes ou ID's
  ### Para acompanhar a próxima aula
 
-	* [x] O guia estelar de JavaScript
+	* - [x] O guia estelar de JavaScript
 
 ## :memo: Licença
 
