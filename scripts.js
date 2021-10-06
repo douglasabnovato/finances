@@ -2,37 +2,14 @@ const Modal = {
     open(){
         document
             .querySelector('.modal-overlay')
-            .classList
-            .add('active')
+            .classList.add('active')
     },
     close(){
         document
             .querySelector('.modal-overlay')
-            .classList
-            .remove('active')
+            .classList.remove('active')
     }
 }
-
-const transactions = [
-    {
-        id: 1,
-        description: 'Luz',
-        amout: -50000,
-        date: 01/10/2021,
-    },
-    {
-        id: 2,
-        description: 'Website',
-        amout: 100000,
-        date: 10/10/2021,
-    },
-    {
-        id: 3,
-        description: 'Internet',
-        amout: 12000,
-        date: 03/10/2021,
-    },
-]
 
 const Transaction = {
     incomes(){
@@ -46,11 +23,35 @@ const Transaction = {
     },
 }
 
+const transactions = [
+    {
+        id: 1,
+        description: 'Cemig',
+        amout: -50000,
+        date: 01/10/2021,
+    },
+    {
+        id: 2,
+        description: 'Website Top',
+        amout: 100000,
+        date: 10/10/2021,
+    },
+    {
+        id: 3,
+        description: 'Internet Vero',
+        amout: 12000,
+        date: 03/10/2021,
+    },
+]
+
+
+
 const DOM = {
+    transactionsContainer: document.querySelector('#data-table tbody'),
     addTransaction(transaction, index){
         const tr = document.createElement('tr')
-        tr.innerHTML = DOM.innerHTMLTransaction()
-        console.log(tr.innerHTML)
+        tr.innerHTML = DOM.innerHTMLTransaction() 
+        DOM.transactionsContainer.appendChild(tr)
     },
     innerHTMLTransaction(){
         const html = ` 
@@ -64,3 +65,5 @@ const DOM = {
 }
 
 DOM.addTransaction(transactions[0])
+DOM.addTransaction(transactions[1])
+DOM.addTransaction(transactions[2])
