@@ -53,6 +53,7 @@ const DOM = {
     },
     innerHTMLTransaction(transaction) {
         const CssClass = transaction.amount > 0 ? 'income' : 'expense' 
+        const amount = Utils.formatCurrency(transaction.amount)
         const html = `
             <td class="description">${transaction.description}</td>
             <td class="${CssClass}">${transaction.amount}</td>
@@ -60,6 +61,12 @@ const DOM = {
             <td><img src="./assets/minus.svg" alt="Remover transação."></td>
         ` 
         return html
+    }
+}
+
+const Utils = {
+    formatCurrency(value){
+        const signal = Number(value) < 0 ? "-" : "+"
     }
 }
  
