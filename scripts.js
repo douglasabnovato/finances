@@ -61,7 +61,7 @@ const DOM = {
         return html
     }
 }
-
-DOM.addTransaction(transactions[0])
-DOM.addTransaction(transactions[1])
-DOM.addTransaction(transactions[2])
+ 
+transactions.forEach(function(transaction) {
+    DOM.addTransaction(transaction)
+})
