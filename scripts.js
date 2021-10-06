@@ -13,13 +13,26 @@ const Modal = {
 
 const Transaction = {
     incomes(){
-        //somar as entradas
+        let income = 0;
+        transactions.forEach(transaction => {
+            if(transaction.amount > 0){
+                income += transaction.amount;
+            }
+        })
+        return income;
     },
     expenses(){
-        //somar as saídas
+        let expense = 0;
+        transactions.forEach(transaction => {
+            if(transaction.amount < 0){
+                expense += transaction.amount;
+            }
+        })
+        return expense;
     },
     total(){
         //remover das entradas o valor das saídas
+        return Transaction.incomes() + Transaction.expenses();
     },
 }
 
@@ -61,22 +74,29 @@ const DOM = {
             <td><img src="./assets/minus.svg" alt="Remover transação."></td>
         ` 
         return html
+    },
+    updateBalance(){
+        document
+            .getElementById('income-display')
+            .innerHTML = Transaction.incomes()
+        document
+            .getElementById('expense-display')
+            .innerHTML = Transaction.expense()
+        document
+            .getElementById('total-display')
+            .innerHTML = Transaction.total()
     }
 }
 
 const Utils = {
     formatCurrency(value){
-        const signal = Number(value) < 0 ? "-" : ""
-        value = String(value).replace(/\D/g, "")
-        value = Number(value)/100
-        value = value.toLocaleString("pt-BR", {
-          style: "currency",
-          currency: "BRL"  
-        })
-        return signal + value
+        value = value * 100
+        return Math.round(value)
     }
 }
  
 transactions.forEach(function(transaction) {
     DOM.addTransaction(transaction)
 })
+
+DOM.updateBalance()
