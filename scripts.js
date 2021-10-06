@@ -32,7 +32,7 @@ const Transaction = {
     },
     total(){
         //remover das entradas o valor das saídas
-        return Transaction.incomes() + Transaction.expenses();
+        return (Transaction.incomes() + Transaction.expenses()).toFixed(2);
     },
 }
 
@@ -40,19 +40,19 @@ const transactions = [
     {
         id: 1,
         description: 'Cemig',
-        amount: -50000,
+        amount: -500.20,
         date: '01/10/2021',
     },
     {
         id: 2,
         description: 'Website Top',
-        amount: 100000,
+        amount: 100.75,
         date: '10/10/2021',
     },
     {
         id: 3,
         description: 'Internet Vero',
-        amount: 12000,
+        amount: 120.41,
         date: '03/10/2021',
     },
 ]
@@ -78,20 +78,30 @@ const DOM = {
     updateBalance(){
         document
             .getElementById('income-display')
-            .innerHTML = Transaction.incomes()
+            .innerHTML = Utils.formatCurrency(Transaction.incomes())
         document
             .getElementById('expense-display')
-            .innerHTML = Transaction.expense()
+            .innerHTML = Utils.formatCurrency(Transaction.expenses()) 
         document
             .getElementById('total-display')
-            .innerHTML = Transaction.total()
+            .innerHTML = Utils.formatCurrency(Transaction.total()) 
     }
 }
 
 const Utils = {
-    formatCurrency(value){
-        value = value * 100
-        return Math.round(value)
+    formatCurrency(value) {
+        const signal = Number(value) < 0 ? "-" : ""
+
+        value = String(value).replace(/\D/g, "")
+
+        value = Number(value) / 100
+
+        value = value.toLocaleString("pt-BR", {
+            style: "currency",
+            currency: "BRL"
+        })
+
+       return signal + value
     }
 }
  
