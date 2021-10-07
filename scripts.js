@@ -11,7 +11,36 @@ const Modal = {
     }
 }
 
+const transactions = [
+    {
+        description: 'Cemig',
+        amount: -500.20,
+        date: '01/10/2021',
+    },
+    {
+        description: 'Website Top',
+        amount: 100.75,
+        date: '10/10/2021',
+    },
+    {
+        description: 'Internet Vero',
+        amount: 160.41,
+        date: '06/10/2021',
+    }, 
+    {
+        description: 'Website Top',
+        amount: 105.75,
+        date: '14/10/2021',
+    },
+    {
+        description: 'Internet Vero',
+        amount: 520.41,
+        date: '23/10/2021',
+    },
+]
+
 const Transaction = {
+    
     all: transactions, 
 
     add(transaction){
@@ -49,34 +78,6 @@ const Transaction = {
         return (Transaction.incomes() + Transaction.expenses()).toFixed(2);
     },
 }
-
-const transactions = [
-    {
-        description: 'Cemig',
-        amount: -500.20,
-        date: '01/10/2021',
-    },
-    {
-        description: 'Website Top',
-        amount: 100.75,
-        date: '10/10/2021',
-    },
-    {
-        description: 'Internet Vero',
-        amount: 160.41,
-        date: '06/10/2021',
-    }, 
-    {
-        description: 'Website Top',
-        amount: 105.75,
-        date: '14/10/2021',
-    },
-    {
-        description: 'Internet Vero',
-        amount: 520.41,
-        date: '23/10/2021',
-    },
-]
 
 const DOM = {
     transactionsContainer: document.querySelector('#data-table tbody'),
@@ -134,7 +135,27 @@ const Utils = {
 }
 
 const Form = {
-     
+    validateFields(){
+        console.log("validar campos")
+    },
+
+    formatData(){
+        console.log("formatar campos")
+    },
+
+    submit(event){
+        console.log(event)
+        event.preventDefault()
+
+        Form.validateFields() //validar informações foram preenchidas
+        
+        Form.formatData()//formatar dados para salvar
+
+        //salvar dados do formulário
+        //limpar dados para o próximo preenchimento
+        //fechar modal
+        //atualizar aplicação
+    }
 }
 
 const App = {
