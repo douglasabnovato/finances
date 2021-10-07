@@ -614,7 +614,7 @@ Pratique a gratidão!
     - Não entre em discussões que não levam a nada
     - Permita ficar ao seu redor, pessoas que te coloquem no próximo nível. 
 - Faça mais! Pratique mais! Foque no seu objetivo e no seu resultado!
-```
+ 
 
 ## :memo: Licença
 
