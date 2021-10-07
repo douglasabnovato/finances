@@ -12,24 +12,33 @@ const Modal = {
 }
 
 const Transaction = {
+    all: transactions, 
+
+    add(transaction){
+        Transaction.all.push(transaction)
+        App.reload()
+    },
+
     incomes(){
         let income = 0;
-        transactions.forEach(transaction => {
+        Transaction.all.forEach(transaction => {
             if(transaction.amount > 0){
                 income += transaction.amount;
             }
         })
         return income;
     },
+
     expenses(){
         let expense = 0;
-        transactions.forEach(transaction => {
+        Transaction.all.forEach(transaction => {
             if(transaction.amount < 0){
                 expense += transaction.amount;
             }
         })
         return expense;
     },
+
     total(){
         //remover das entradas o valor das saídas
         return (Transaction.incomes() + Transaction.expenses()).toFixed(2);
@@ -52,8 +61,20 @@ const transactions = [
     {
         id: 3,
         description: 'Internet Vero',
-        amount: 120.41,
-        date: '03/10/2021',
+        amount: 160.41,
+        date: '06/10/2021',
+    }, 
+    {
+        id: 4,
+        description: 'Website Top',
+        amount: 105.75,
+        date: '14/10/2021',
+    },
+    {
+        id: 5,
+        description: 'Internet Vero',
+        amount: 520.41,
+        date: '23/10/2021',
     },
 ]
 
@@ -104,9 +125,27 @@ const Utils = {
        return signal + value
     }
 }
- 
-transactions.forEach(function(transaction) {
-    DOM.addTransaction(transaction)
-})
 
-DOM.updateBalance()
+const App = {
+    init(){
+        Transaction.all.forEach(transaction => {
+            DOM.addTransaction(transaction)
+        })
+        
+        DOM.updateBalance()
+
+    },
+    reload(){
+        App.init()
+    }
+}
+
+App.init()
+  
+   
+Transaction.add({
+    id:39,
+    description: "Alo",
+    amount: 200,
+    date: "23/02/2021"
+})
