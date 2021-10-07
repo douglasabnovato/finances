@@ -163,7 +163,7 @@ const Form = {
     formatData(){//formatar dados para salvar
         let { description, amount, date } = Form.getValues()  
         amount = Utils.formatAmount(amount)
-        date = Utils.formatAmount(date) 
+        date = Utils.formatDate(date) 
         return {
             description,
             amount,
@@ -198,8 +198,7 @@ const Form = {
 const App = {
     init(){
         Transaction.all.forEach( DOM.addTransaction )
-        DOM.updateBalance()
-
+        DOM.updateBalance() 
     },
 
     reload(){
