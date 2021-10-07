@@ -60,7 +60,7 @@ const Transaction = {
                 income += transaction.amount;
             }
         })
-        return income;
+        return income.toFixed(2);
     },
 
     expenses(){
@@ -70,7 +70,7 @@ const Transaction = {
                 expense += transaction.amount;
             }
         })
-        return expense;
+        return expense.toFixed(2);      
     },
 
     total(){
@@ -135,26 +135,48 @@ const Utils = {
 }
 
 const Form = {
-    validateFields(){
-        console.log("validar campos")
+
+    description: document.querySelector("input#description"),
+    amount: document.querySelector("input#amount"),
+    date: document.querySelector("input#date"),
+
+    getValues(){
+        return{
+            description: Form.description.value,
+            amount: Form.amount.value,
+            date: Form.date.value
+        }
+    },
+
+    validateFields(){//validar informações foram preenchidas
+        const { description, amount, date } = Form.getValues() 
+        
+        if(description.trim() === "" || amount.trim() === ""  || date.trim() === "" ){
+            throw new Error("Por favor, preencha todos os campos.")
+        }
     },
 
     formatData(){
         console.log("formatar campos")
     },
 
-    submit(event){
-        console.log(event)
+    submit(event){ 
         event.preventDefault()
 
-        Form.validateFields() //validar informações foram preenchidas
-        
-        Form.formatData()//formatar dados para salvar
+        try{
 
-        //salvar dados do formulário
-        //limpar dados para o próximo preenchimento
-        //fechar modal
-        //atualizar aplicação
+            Form.validateFields() 
+            
+            Form.formatData()//formatar dados para salvar
+    
+            //salvar dados do formulário
+            //limpar dados para o próximo preenchimento
+            //fechar modal
+            //atualizar aplicação
+
+        }catch(error){
+            alert(error.message)
+        }
     }
 }
 
