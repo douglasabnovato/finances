@@ -14,27 +14,27 @@ const Modal = {
 const transactions = [
     {
         description: 'Cemig',
-        amount: -500.20,
+        amount: -50020,
         date: '01/10/2021',
     },
     {
         description: 'Website Top',
-        amount: 100.75,
+        amount: 10075,
         date: '10/10/2021',
     },
     {
         description: 'Internet Vero',
-        amount: 160.41,
+        amount: 16041,
         date: '06/10/2021',
     }, 
     {
         description: 'Website Top',
-        amount: 105.75,
+        amount: 10575,
         date: '14/10/2021',
     },
     {
         description: 'Internet Vero',
-        amount: 520.41,
+        amount: 52041,
         date: '23/10/2021',
     },
 ]
@@ -60,7 +60,7 @@ const Transaction = {
                 income += transaction.amount;
             }
         })
-        return income.toFixed(2);
+        return income
     },
 
     expenses(){
@@ -70,12 +70,12 @@ const Transaction = {
                 expense += transaction.amount;
             }
         })
-        return expense.toFixed(2);      
+        return expense   
     },
 
     total(){
         //remover das entradas o valor das saídas
-        return (Transaction.incomes() + Transaction.expenses()).toFixed(2);
+        return (Transaction.incomes() + Transaction.expenses()) 
     },
 }
 
@@ -118,6 +118,14 @@ const DOM = {
 }
 
 const Utils = {
+    formatAmount(value){
+        value = Number(value) * 100
+        return value
+    },
+    formatDate(date){ 
+        const splittedDate = date.split("-")
+        return `${splittedDate[2]}/${splittedDate[1]}/${splittedDate[0]}`
+    },
     formatCurrency(value) {
         const signal = Number(value) < 0 ? "-" : ""
 
@@ -156,8 +164,17 @@ const Form = {
         }
     },
 
-    formatData(){
-        console.log("formatar campos")
+    formatData(){//formatar dados para salvar
+        let { description, amount, date } = Form.getValues() 
+
+        amount = Utils.formatAmount(amount)
+        date = Utils.formatAmount(date)
+
+        return {
+            description,
+            amount,
+            date,
+        }
     },
 
     submit(event){ 
@@ -167,7 +184,7 @@ const Form = {
 
             Form.validateFields() 
             
-            Form.formatData()//formatar dados para salvar
+            const transaction = Form.formatData()
     
             //salvar dados do formulário
             //limpar dados para o próximo preenchimento
