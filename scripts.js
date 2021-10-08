@@ -147,7 +147,7 @@ const Form = {
 
     getValues(){
         return{
-            description: Form.description.value,
+            description: Form.description.value,    
             amount: Form.amount.value,
             date: Form.date.value
         }

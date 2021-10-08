@@ -211,14 +211,14 @@ te deixar por dentro de tudo.
 ## O que vamos ver hoje - parte 3?
 
 __Javascript__
-- [] Objetos
-- [] Tipos e estrutura de dados
-- [] If/else
-- [] Erros
-- [] Funcionalidades
-- [] Adicionar e remover transações
-- [] Calcular
-- [] Salvar no localStorage
+- [x] Objetos
+- [x] Tipos e estrutura de dados
+- [x] If/else
+- [x] Erros
+- [x] Funcionalidades
+- [x] Adicionar e remover transações
+- [x] Calcular
+- [x] Salvar no localStorage
 
 ### Lembretes
 * A aula vai ficar gravada
