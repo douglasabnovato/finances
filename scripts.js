@@ -11,35 +11,19 @@ const Modal = {
     }
 } 
 
+const Storage = {
+    get(){
+        return JSON.parse(localStorage.getItem("dev.finances:transactions")) || []
+    },
+
+    set(transactions){
+        localStorage.setItem("dev.finances:transactions", JSON.stringify(transactions))
+    },
+}
+
 const Transaction = {
     
-    all: [
-        {
-            description: 'Cemig',
-            amount: -50020,
-            date: '01/10/2021',
-        },
-        {
-            description: 'Website Top',
-            amount: 10075,
-            date: '10/10/2021',
-        },
-        {
-            description: 'Internet Vero',
-            amount: 16041,
-            date: '06/10/2021',
-        }, 
-        {
-            description: 'Website Nubank',
-            amount: 10575,
-            date: '14/10/2021',
-        },
-        {
-            description: 'App Uber Negócios',
-            amount: 52041,
-            date: '23/10/2021',
-        },
-    ], 
+    all: Storage.get(), 
 
     add(transaction){
         Transaction.all.push(transaction)
@@ -195,20 +179,11 @@ const Form = {
     }
 }
 
-const Storage = {
-    get(){
-        return JSON.parset(localStorage.getItem("dev.finances:transactions")) || []
-    },
-
-    set(transactions){
-        localStorage.setItem("dev.finances:transactions", JSON.stringify(transactions))
-    },
-}
-
 const App = {
     init(){
         Transaction.all.forEach( DOM.addTransaction )
-        DOM.updateBalance() 
+        DOM.updateBalance()
+        Storage.set(Transaction.all) 
     },
 
     reload(){
