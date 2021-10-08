@@ -195,6 +195,16 @@ const Form = {
     }
 }
 
+const Storage = {
+    get(){
+        return JSON.parset(localStorage.getItem("dev.finances:transactions")) || []
+    },
+
+    set(transactions){
+        localStorage.setItem("dev.finances:transactions", JSON.stringify(transactions))
+    },
+}
+
 const App = {
     init(){
         Transaction.all.forEach( DOM.addTransaction )
