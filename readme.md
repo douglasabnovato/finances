@@ -40,7 +40,8 @@ Resultado do treinamento da Rocketseat, a Maratona Discover - Edição 01, minis
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 💻🔖 Notion 
+## 💻🔖 Notion
+A seguir teremos alguns pontos interessantes para avançar nos domínios de ferramentas e posturas na rotina de programador. 
 
 ### O que vamos ver hoje - parte 1?
 
@@ -49,74 +50,72 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 * Nosso time estará na comunidade para tirar dúvidas e te deixar por dentro de tudo.
 
 ### Qual a proposta deste projeto?
-	- [x] Organização e estudo
-	- [x] Plataforma e Comunidade
-	- [x] Mentalidade Dev
-	- [x] Praticar as tecnologias do Discover
+- [x] Organização e estudo
+- [x] Plataforma e Comunidade
+- [x] Mentalidade Dev
+- [x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	- [x] Clareza prática
-	- [x] Entendimento da plataforma e comunidade 
-	- [x] Projeto aplicando os conceitos do Discover
-	- [x] Bases necessárias para continuar sua jornada
-	
-
+- [x] Clareza prática
+- [x] Entendimento da plataforma e comunidade 
+- [x] Projeto aplicando os conceitos do Discover
+- [x] Bases necessárias para continuar sua jornada
+ 
 ### Conceitos
 
 1. O que é ser uma pessoa programadora?<br/>
-	- [x] Oportunidades
-		- [x] Front-end
-		- [x] Back-end
-		- [x] Fullstack
-	- [x] Mercado
-		- [x] Local x Global
-		- [x] Milhares de vagas
-		- [x] Experiência
-	- [x] Soft e Hard Skills
-	- [x] Tecnologias e evolução
-	- [x] Especialista vs Generalista
+- [x] Oportunidades
+    - [x] Front-end
+    - [x] Back-end
+    - [x] Fullstack
+- [x] Mercado
+    - [x] Local x Global
+    - [x] Milhares de vagas
+    - [x] Experiência
+- [x] Soft e Hard Skills
+- [x] Tecnologias e evolução
+- [x] Especialista vs Generalista
 
 2. Guia de estudos e organização
-	- [x] Pomodoro
-	- [x] Tenha um lugar reservado para seu estudo
-		- [x] Foco
-		- [x] Silêncio
-		- [x] Interrupções
-	- [x] Aprendizado ativo x passivo
-		- [x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
-		- [x] Aprenda a ensinar: Repita o que você acabou de ver.
-	- [x] Anotação e Revisão
-		- [x] Anote mais após a aula
-		- [x] Revise suas anotações e busque respostas para o que você
-		não entendeu
-	- [x] Pesquisas
+- [x] Pomodoro
+- [x] Tenha um lugar reservado para seu estudo
+    - [x] Foco
+    - [x] Silêncio
+    - [x] Interrupções
+- [x] Aprendizado ativo x passivo
+    - [x] Aprenda a se perguntar: Se pergunte o que você acabou de ver
+    - [x] Aprenda a ensinar: Repita o que você acabou de ver.
+- [x] Anotação e Revisão
+    - [x] Anote mais após a aula
+    - [x] Revise suas anotações e busque respostas para o que você
+    não entendeu
+- [x] Pesquisas
 
 3. Navegando pela plataforma
-	- [x] Comunidade
-	- [x] Trilhas
-	- [x] Cursos
+- [x] Comunidade
+- [x] Trilhas
+- [x] Cursos
 
 4. Como acompanhar os vídeos
-	- [x] Assista com o intuito de entender (você não precisa decorar)
-	- [x] Code o bloco de código após entender o que foi feito
-	- [x] Não tem problema não entender tudo de primeira, 
-	- leva tempo e mais conhecimento para que as coisas façam sentido.
-	- [x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
+- [x] Assista com o intuito de entender (você não precisa decorar)
+- [x] Code o bloco de código após entender o que foi feito
+- [x] Não tem problema não entender tudo de primeira, 
+- leva tempo e mais conhecimento para que as coisas façam sentido.
+- [x] Cuidado: Memória (eu sei isso) vs Reconhecimento (eu já vi isso)
 
 5. Mentalidade
-	- [x] Você precisa de tempo
-		- [x] Descanso faz parte do aprendizado (sono)
-		- [x] O cérebro precisa de tempo para assimilar as coisas
-	- [x] Você precisa ter persistência
-	- [x] Programar é encontrar soluções!
-	- [x] "Eu não sou tão bom quanto ... "
-	- [x] "Eu sinto que estou só copiando e colando"
-	- [x] Você gosta do que está fazendo?
+- [x] Você precisa de tempo
+    - [x] Descanso faz parte do aprendizado (sono)
+    - [x] O cérebro precisa de tempo para assimilar as coisas
+- [x] Você precisa ter persistência
+- [x] Programar é encontrar soluções!
+- [x] "Eu não sou tão bom quanto ... "
+- [x] "Eu sinto que estou só copiando e colando"
+- [x] Você gosta do que está fazendo?
 
 6. Bora Codar
-	- [x] Estrutura da aplicação com HTML
-	- [x] Estilização com CSS
-
+- [x] Estrutura da aplicação com HTML
+- [x] Estilização com CSS
 
 7. Vamos ver o que veremos na próxima semana?
 
@@ -124,12 +123,13 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 #### HTML
 - [x] O guia estelar de HTML
-- [x] HTML que faz sentido para todos
+- [x] HTML que faz sentido para todos 
 #### CSS
 - [x] O guia estelar de CSS
 - [x] Nem tudo são pixels
 - [x] Uma caixa dentro da outra
 - [x] App bonito até nos textos
+
 #### Guia estelar de HTTP
 - [x] 1. Entendendo
 	- [x] Visão geral
@@ -164,16 +164,16 @@ __Finalização do HTML + CSS__
 te deixar por dentro de tudo.
 
 ### Qual a proposta desta Maratona?
-	- [x] Organização e estudo
-	- [x] Plataforma e Comunidade
-	- [x] Mentalidade Dev
-	- [x] Praticar as tecnologias do Discover
+- [x] Organização e estudo
+- [x] Plataforma e Comunidade
+- [x] Mentalidade Dev
+- [x] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-	- [x] Clareza prática
-	- [x] Entendimento da plataforma e comunidade 
-	- [x] Projeto aplicando os conceitos do Discover
-	- [x] Bases necessárias para continuar sua jornada 
+- [x] Clareza prática
+- [x] Entendimento da plataforma e comunidade 
+- [x] Projeto aplicando os conceitos do Discover
+- [x] Bases necessárias para continuar sua jornada 
 
 ### O que rolou na primeira aula
 
@@ -228,45 +228,46 @@ __Javascript__
 tirar dúvidas e te deixar por dentro de tudo.
 
 ### Qual a proposta desta Maratona?
-	[x] Organização e estudo
-	[x] Plataforma e Comunidade
-	[x] Mentalidade Dev
-	[x] Praticar as tecnologias do curso Discover
+- [x] Organização e estudo
+- [x] Plataforma e Comunidade
+- [x] Mentalidade Dev
+- [x] Praticar as tecnologias do curso Discover
 
 ### O que você vai ganhar com isso?
-	[x] Clareza prática
-	[x] Entendimento da plataforma e comunidade 
-	[x] Projeto aplicando os conceitos do Discover
-	[x] Bases necessárias para continuar sua jornada
+- [x] Clareza prática
+- [x] Entendimento da plataforma e comunidade 
+- [x] Projeto aplicando os conceitos do Discover
+- [x] Bases necessárias para continuar sua jornada
 	
-### O que rolou até aqui?
-
-	* Soft Skills
-		[x] O que é ser uma pessoa programadora?
-		[x] Oportunidades e mercado
-		[x] Organização e estudos
-			[x] Foco, Local, Aprendizado ativo, Revisões, 
-			Pesquisas
-		[x] Navegamos pela plataforma
-		[x] Dicas de como acompanhar as aulas
-		[x] Mentalidade
-			[x] Tempo, Descanso, Persistência, 
-			Síndrome do impostor
-			[x] Você gosta do que está fazendo? 
-	* Hard Skills (prática)
-		[x] HTML e CSS pra deixar a aplicação completa
-		[x] Beliscadinha no JavaScript
+### O que rolou até aqui? 
+* Soft Skills
+- [x] O que é ser uma pessoa programadora?
+- [x] Oportunidades e mercado
+- [x] Organização e estudos
+    [x] Foco, Local, Aprendizado ativo, Revisões, 
+    Pesquisas
+- [x] Navegamos pela plataforma
+- [x] Dicas de como acompanhar as aulas
+- [x] Mentalidade
+    [x] Tempo, Descanso, Persistência, 
+    Síndrome do impostor
+    [x] Você gosta do que está fazendo? 
+* Hard Skills (prática)
+- [x] HTML e CSS pra deixar a aplicação completa
+- [x] Beliscadinha no JavaScript
 
 ### Bora Codar!
 
 ### Tarefa 04: Assistir aos cursos/aulas
-	### Revisão
-	[x] O guia estelar de JavaScript
-	### Assistir
-	[x] O Guia Estelar de Git
-	[x] O Guia EStelar de Github
-	[x] Pilotando com a DOM
-	### Colocar o código final no Github
+
+### Revisão
+- [x] O guia estelar de JavaScript
+
+### Assistir
+- [x] O Guia Estelar de Git
+- [x] O Guia EStelar de Github
+- [x] Pilotando com a DOM
+### Colocar o código final no Github
  
 ## O que vamos ver hoje - parte 4?
 
