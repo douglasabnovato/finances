@@ -34,14 +34,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Resultado do treinamento da Rocketseat, a Maratona Discover - Edição 01, ministrado pelo Mayk Brito, o dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). 
 
 ## 💻🔖 Notion
-A seguir teremos alguns pontos interessantes para avançar nos domínios de ferramentas e posturas na rotina de programador. 
+
+A seguir teremos alguns pontos interessantes para avançar nos domínios de ferramentas e posturas na rotina de programador que estão detalhados no projeto no Notion [Maratona Discover](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb)
+
+## 💻🔖 Vídeos
+
+A explicação desse conteúdo também pode ser consultado em vídeos, conforme os links a seguir.
+    - [Maratona Discover – Aula 01](https://www.youtube.com/watch?v=NlDr6JX3VvA)
+    - [Maratona Discover – Aula 02](https://www.youtube.com/watch?v=f13z6eFJEQg)
+
+## 💻🔖 Inspirações
+
+Concluir esse projeto é um desafio interessante para avaliar e analisar as habilidades de dev. Segue outras versões possíveis
+    - [topics 01](https://github.com/topics/rocketseat-maratona)
+    - [topics 02](https://github.com/topics/devfinance)
 
 ### O que vamos ver hoje - parte 1?
 
@@ -616,11 +629,10 @@ Pratique a gratidão!
     - Permita ficar ao seu redor, pessoas que te coloquem no próximo nível. 
 - Faça mais! Pratique mais! Foque no seu objetivo e no seu resultado!
  
+### 🚀 Conclusão
 
-## :memo: Licença
+Obrigado e bom desafio!
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. 
+Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
 
----
-
-Feito com ♥ by [douglasabnovato!](https://www.linkedin.com/in/douglasabnovato/) :wave: 
+Fonte do projeto na [Maratona Discover - Edição 01 da Rocketseat, ministrado pelo Mayk Brito](https://www.rocketseat.com.br/) 👋
