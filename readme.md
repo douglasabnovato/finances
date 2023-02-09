@@ -63,7 +63,7 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 
 ### 📅 Lista de Entregas
 
-- [ ] tarefas
+- [ ] escolher um design para o projeto
 
 #### 📅 Referências
 
