@@ -22,7 +22,17 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
----
+## 💻🔖 Organização do projeto
+
+### Branches
+
+Organizamos branches para serem guardadas as versões do projeto
+- v-dev-finances: primeira versão do projeto
+- v-dev-sensedata: segunda versão do projeto
+
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 ## 🚀 Tecnologias
 
@@ -32,17 +42,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻🔖 Notion
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+A seguir teremos alguns pontos interessantes para avançar nos domínios de ferramentas e posturas na rotina de programador que estão detalhados no projeto no Notion [Maratona Discover](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb)
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). 
-
-## 💻🔖 Notion
-
-A seguir teremos alguns pontos interessantes para avançar nos domínios de ferramentas e posturas na rotina de programador que estão detalhados no projeto no Notion [Maratona Discover](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb)
 
 ## 💻🔖 Vídeos
 
@@ -55,6 +61,8 @@ A explicação desse conteúdo também pode ser consultado em vídeos, conforme 
 Concluir esse projeto é um desafio interessante para avaliar e analisar as habilidades de dev. Segue outras versões possíveis
     - [topics 01](https://github.com/topics/rocketseat-maratona)
     - [topics 02](https://github.com/topics/devfinance)
+
+## 💻🔖 Conteúdo
 
 ### O que vamos ver hoje - parte 1?
 
