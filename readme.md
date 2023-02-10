@@ -15,6 +15,7 @@ Organizamos branches para serem guardadas as versões do projeto
 - developer: em desenvolvimento
 - v-dev-finances: primeira versão do projeto
 - v-dev-sensedata: segunda versão do projeto
+- developer-sensedata: desenvolver as funcionalidades da segunda versão
 
 ### 💻 Sobre o desafio
 
