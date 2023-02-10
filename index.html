@@ -55,10 +55,11 @@
         <table id="data-table">
           <thead>
             <tr>
-              <th>Descrição</th>
+              <th>Título</th>
               <th>Valor</th>
-              <th>Datas</th>
-              <th></th>
+              <th>Data</th>
+              <th>Categoria</th>
+              <th>Apagar</th>
             </tr>
           </thead>
           <tbody></tbody>
@@ -71,13 +72,8 @@
           <h2>Nova Transação</h2>
           <form action="">
             <div class="input-group">
-              <label class="sr-only" for="description">Descrição</label>
-              <input
-                type="text"
-                id="description"
-                name="description"
-                placeholder="Descrição"
-              />
+              <label class="sr-only" for="title">Título</label>
+              <input type="text" id="title" name="title" placeholder="Título" />
             </div>
             <div class="input-group">
               <label class="sr-only" for="amount">Valor</label>
@@ -88,14 +84,15 @@
                 name="amount"
                 placeholder="0.00"
               />
-              <small class="help"
-                >Use o sinal negativo para despesas e vírgula para casas
-                decimais.</small
-              >
+              <small class="help">Use o sinal negativo (-) para despesas e vírgula para casas decimais.</small>
             </div>
             <div class="input-group">
               <label class="sr-only" for="date">Data</label>
               <input type="date" id="date" name="date" />
+            </div>
+            <div class="input-group">
+              <label class="sr-only" for="category">Categoria</label>
+              <input type="text" id="category" name="category" placeholder="Categoria" />
             </div>
             <div class="input-group actions">
               <a href="#" onclick="Modal.close()" class="button cancel"

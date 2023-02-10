@@ -73,9 +73,10 @@ const DOM = {
     const CssClass = transaction.amount > 0 ? "income" : "expense";
     const amount = Utils.formatCurrency(transaction.amount);
     const html = `
-            <td class="description">${transaction.description}</td>
+            <td class="title">${transaction.title}</td>
             <td class="${CssClass}">${amount}</td>
             <td class="date">${transaction.date}</td> 
+            <td class="category">${transaction.category}</td> 
             <td><img onclick="Transaction.remove(${index})" src="./assets/minus.svg" alt="Remover transação."></td>
         `;
     return html;
@@ -119,28 +120,36 @@ const Utils = {
     });
     return signal + value;
   },
+
+  formatCategory(category) {
+    let categoria = category.toUpperCase();
+    return categoria;
+  },
 };
 
 const Form = {
-  description: document.querySelector("input#description"),
+  title: document.querySelector("input#title"),
   amount: document.querySelector("input#amount"),
   date: document.querySelector("input#date"),
+  category: document.querySelector("input#category"),
 
   getValues() {
     return {
-      description: Form.description.value,
+      title: Form.title.value,
       amount: Form.amount.value,
       date: Form.date.value,
+      category: Form.category.value,
     };
   },
 
   validateFields() {
     //validar informações foram preenchidas
-    const { description, amount, date } = Form.getValues();
+    const { title, amount, date, category } = Form.getValues();
     if (
-      description.trim() === "" ||
+      title.trim() === "" ||
       amount.trim() === "" ||
-      date.trim() === ""
+      date.trim() === "" ||
+      category.trim() === ""
     ) {
       throw new Error("Por favor, preencha todos os campos.");
     }
@@ -148,13 +157,16 @@ const Form = {
 
   formatData() {
     //formatar dados para salvar
-    let { description, amount, date } = Form.getValues();
+    let { title, amount, date, category } = Form.getValues();
     amount = Utils.formatAmount(amount);
     date = Utils.formatDate(date);
+    category = Utils.formatCategory(category);
+
     return {
-      description,
+      title,
       amount,
       date,
+      category,
     };
   },
 
@@ -165,9 +177,10 @@ const Form = {
 
   clearFields() {
     //limpar dados para o próximo preenchimento
-    Form.description.value = "";
+    Form.title.value = "";
     Form.amount.value = "";
     Form.date.value = "";
+    Form.category.value = "";
   },
 
   submit(event) {

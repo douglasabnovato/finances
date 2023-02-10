@@ -185,7 +185,7 @@ table tbody td {
   padding: 1rem 2rem;
 }
 
-td.description {
+td.title {
   color: var(--dark-blue);
 }
 

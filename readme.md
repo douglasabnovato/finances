@@ -23,7 +23,12 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 
 ### ✅ Requisitos
 
-- [ ] Essa transação deverá conter alguns dados como: título, tipo (entrada ou saída), categoria e valor (salve também a data de criação da transação, este dado não precisa ser um campo preenchido pelo usuário)
+- [ ] Essa transação deverá conter alguns dados como: 
+  - [x] título  
+  - [x] valor 
+  - [ ] salve também a data de criação da transação, este dado não precisa ser um campo preenchido pelo usuário
+  - [x] tipo (entrada ou saída): cor do registro valor
+  - [x] categoria: Fixo, Educação, Saúde
 - [ ] A aplicação deverá conter uma tabela onde deve ser possível visualizar todas as transações realizadas pelo usuário, mostre todos os dados das transações
 - [ ] Como é muito difícil somar e subtrair todos os valores da tabela manualmente, vamos facilitar isso para o nosso usuário. Portanto, crie uma área na aplicação em que seja possível visualizar, de forma clara, o total das transações de entradas, saídas e o total da conta (entradas - saídas)
 - [ ] A fim de ajudar o usuário a visualizar todas as entradas, saídas e entradas/saídas com uma determinada categoria, crie, inicialmente, dois filtros rápidos que devem interagir um com o outro:
