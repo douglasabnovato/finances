@@ -43,6 +43,7 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
   - [dribbble](https://dribbble.com/) 
   - [behance](https://www.behance.net/) 
   - [pinterest](https://br.pinterest.com/) 
+- [ ] aperfeiçoar a identidade visual da aplicação
 
 ### 💡 Tecnologias  
 
@@ -68,6 +69,8 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 - [ ] Mostrar subtotal de entradas / saídas de acordo com o filtro de categoria
 - [x] A entrega deve ser feita em um repositório público do GitHub
 - [ ] Um link com a aplicação rodando. Você pode subir a aplicação no Netlify, Heroku ou outro site de sua preferência
+- [x] Responsividade 
+- [x] Mobile First
  
 ### 📅 Lista de Entregas
 
