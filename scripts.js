@@ -66,6 +66,24 @@ const Transaction = {
   },
 
   total() {
+    if((Transaction.incomes() + Transaction.expenses()) < 0){
+        document.querySelector("#total-cor").classList.remove("maior");
+        document.querySelector("#total-cor").classList.remove("zerado");
+        document.querySelector("#total-cor").classList.add("menor");
+    }
+    
+    if((Transaction.incomes() + Transaction.expenses()) == 0){
+        document.querySelector("#total-cor").classList.remove("maior");
+        document.querySelector("#total-cor").classList.add("zerado");
+        document.querySelector("#total-cor").classList.remove("menor");
+    }
+    
+    if((Transaction.incomes() + Transaction.expenses()) > 0){
+        document.querySelector("#total-cor").classList.add("maior");
+        document.querySelector("#total-cor").classList.remove("zerado");
+        document.querySelector("#total-cor").classList.remove("menor");
+    }
+    
     //remover das entradas o valor das saídas
     return Transaction.incomes() + Transaction.expenses();
   },

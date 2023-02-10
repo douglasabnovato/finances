@@ -43,7 +43,10 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
   - [dribbble](https://dribbble.com/) 
   - [behance](https://www.behance.net/) 
   - [pinterest](https://br.pinterest.com/) 
-- [ ] aperfeiçoar a identidade visual da aplicação
+- [x] aperfeiçoar a identidade visual da aplicação
+  - [x] paleta de cores conforme a identidade da empresa
+  - [x] favicon
+  - [x] logo com cores
 
 ### 💡 Tecnologias  
 
@@ -71,6 +74,7 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 - [ ] Um link com a aplicação rodando. Você pode subir a aplicação no Netlify, Heroku ou outro site de sua preferência
 - [x] Responsividade 
 - [x] Mobile First
+- [x] Caixa Total muda de cor conforme status da situação
  
 ### 📅 Lista de Entregas
 

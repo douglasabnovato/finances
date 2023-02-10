@@ -16,11 +16,12 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <title>dev.finance$</title>
+    <link rel="shortcut icon" href="./assets/image-2.svg" type="image/x-icon" />
+    <title>finance.sensedata$</title>
   </head>
   <body>
     <header>
-      <img src="./assets/logo.svg" alt="Logo Dev Finance" />
+      <p class="logo"> <span class="orange">finance</span><span class="red">.</span><span class="blue">sensedata</span><span class="green">$</span></p>
     </header>
     <main class="container">
       <section id="balance">
@@ -39,7 +40,7 @@
           </h3>
           <p id="expense-display">R$ 0,00</p>
         </div>
-        <div class="card total">
+        <div id="total-cor" class="card total">
           <h3>
             <span>Total</span>
             <img src="./assets/total.svg" alt="Image de Total" />
@@ -84,11 +85,14 @@
                 name="amount"
                 placeholder="0.00"
               />
-              <small class="help">Use o sinal negativo (-) para despesas e vírgula para casas decimais.</small>
+              <small class="help"
+                >Use o sinal negativo (-) para despesas e vírgula para casas
+                decimais.</small
+              >
             </div>
             <div class="input-group">
               <label class="sr-only" for="date">Data</label>
-              <input type="date" id="date" name="date"/>
+              <input type="date" id="date" name="date" />
             </div>
             <div class="input-group">
               <label class="sr-only" for="category">Categoria</label>
@@ -99,7 +103,9 @@
               </select>
             </div>
             <div class="input-group actions">
-              <a href="#" onclick="Modal.close()" class="button cancel">Cancelar</a>
+              <a href="#" onclick="Modal.close()" class="button cancel"
+                >Cancelar</a
+              >
               <button>Salvar</button>
             </div>
           </form>
@@ -107,7 +113,7 @@
       </div>
     </div>
     <footer>
-      <p>dev.finance$</p>
+      <p>finance.sensedata$</p>
     </footer>
     <script src="./scripts.js"></script>
   </body>

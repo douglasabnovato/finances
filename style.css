@@ -3,7 +3,14 @@
   --dark-blue: #363f5f;
   --green: #49aa26;
   --light-green: #3dd705;
+  --other-green: #12a454;
+
   --red: #e92929;
+
+  --orange: rgb(253, 106, 35);
+  --blue: rgb(5, 125, 193);
+  --greeen: rgb(74, 121, 34);
+  --reed: rgb(253, 20, 21);
 }
 
 * {
@@ -98,9 +105,27 @@ header {
   text-align: center;
 }
 
-#logo {
+.logo {
   color: #fff;
-  font-weight: 100;
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.logo .orange {
+  color: var(--orange);
+}
+.logo .blue {
+  color: var(--blue);
+}
+
+.logo .green {
+  color: var(--greeen);
+  font-weight: 500;
+}
+
+.logo .red {
+  color: var(--reed);
+  font-size: 42px;
 }
 
 /* Balance */
@@ -142,6 +167,18 @@ header {
   color: white;
 }
 
+.card.total.maior {
+  background: #3dd705;
+}
+
+.card.total.zerado {
+  background: #363f5f;
+}
+
+.card.total.menor {
+  background: #e92929;
+}
+
 /* Table */
 #transaction {
   display: block;
@@ -155,8 +192,8 @@ header {
   color: #969cb3;
 }
 
-td img { 
-    cursor: pointer;
+td img {
+  cursor: pointer;
 }
 
 table thead tr td:first-child,
@@ -194,11 +231,11 @@ td.title {
 }
 
 td.income {
-  color: #12a454;
+  color: var(--greeen);
 }
 
 td.expense {
-  color: #e92929;
+  color: var(--reed);
 }
 
 td.date {
@@ -240,13 +277,13 @@ td.date {
 
 #form h2 {
   margin-top: 0;
-} 
+}
 
 .input-group select {
-    border: none;
-    border-radius: 0.2rem;
-    padding: 0.8rem;
-    width: 100%; 
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.8rem;
+  width: 100%;
 }
 
 input {
