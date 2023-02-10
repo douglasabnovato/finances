@@ -50,7 +50,11 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 
 ### 🚀 Itens Obrigatórios
 
-- [x] Adicionar, visualizar, editar e excluir uma transação - CRUD
+- [ ] CRUD de transações
+  - [x] Adicionar
+  - [x] Visualizar
+  - [ ] Editar
+  - [x] Excluir  
 - [x] Visualizar as transações em uma tabela
 - [x] Visualizar o total das transações de entrada, saída e o total da conta (entradas - saídas)
 - [ ] Os filtros citados devem estar funcionando
