@@ -27,7 +27,7 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
   - [x] título  
   - [x] valor 
   - [ ] salve também a data de criação da transação, este dado não precisa ser um campo preenchido pelo usuário
-  - [x] tipo (entrada ou saída): cor do registro valor
+  - [x] tipo (entrada ou saída): sinal (-) para saídas e cor do valor registrado
   - [x] categoria: Fixo, Educação, Saúde
 - [ ] A aplicação deverá conter uma tabela onde deve ser possível visualizar todas as transações realizadas pelo usuário, mostre todos os dados das transações
 - [ ] Como é muito difícil somar e subtrair todos os valores da tabela manualmente, vamos facilitar isso para o nosso usuário. Portanto, crie uma área na aplicação em que seja possível visualizar, de forma clara, o total das transações de entradas, saídas e o total da conta (entradas - saídas)
