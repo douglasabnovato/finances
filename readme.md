@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="sensedata" title="#sensedata" src="./.github/finance-2.jpg">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-3.jpg">
 </p>    
 
 ## 💻🔖 Organização do projeto
