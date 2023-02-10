@@ -11,6 +11,10 @@
   --blue: rgb(5, 125, 193);
   --greeen: rgb(74, 121, 34);
   --reed: rgb(253, 20, 21);
+
+  --header: #062d58;
+  --header-two: #2d4a22;
+
 }
 
 * {
@@ -100,7 +104,7 @@ button:hover {
 
 /* Header */
 header {
-  background: #2d4a22;
+  background: var(--header);
   padding: 2rem 0 10rem;
   text-align: center;
 }

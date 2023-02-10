@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="sensedata" title="#sensedata" src="./.github/template.png">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-2.jpg">
 </p>    
 
 ## 💻🔖 Organização do projeto
@@ -88,6 +88,24 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 - [replace string](https://www.devmedia.com.br/javascript-replace-substituindo-valores-em-uma-string/39176)
 - [Date](https://blog.betrybe.com/javascript/javascript-date/)
 - [data atual](https://www.freecodecamp.org/portuguese/news/date-now-em-javascript-como-obter-a-data-atual-em-javascript/) 
+
+#### 📅 Telas
+
+- Desktop
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-1.jpg" width="400px">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-2.jpg" width="400px">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-3.jpg" width="400px">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-4.jpg" width="400px">
+</p>  
+
+- Mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-5.jpg" height="400px">
+  <img alt="sensedata" title="#sensedata" src="./.github/finance-6.jpg" height="400px">
+</p>  
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
  
