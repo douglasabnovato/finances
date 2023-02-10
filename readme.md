@@ -51,6 +51,8 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 ### 💡 Tecnologias  
 
 - Temos a **preferência** por React sem Typescript e css puro porém, se for de seu interesse utilizar Typescript e alguma lib de css-in-js/preprocessor fique a vontade.
+  - [ ] react
+  - [ ] componentização
 
 ### 🚀 Itens Obrigatórios
 
