@@ -9,12 +9,12 @@ const Modal = {
 
 const Storage = {
   get() {
-    return JSON.parse(localStorage.getItem("dev.finances:transactions")) || [];
+    return JSON.parse(localStorage.getItem("dev.sensedata:transactions")) || [];
   },
 
   set(transactions) {
     localStorage.setItem(
-      "dev.finances:transactions",
+      "dev.sensedata:transactions",
       JSON.stringify(transactions)
     );
   },
@@ -123,6 +123,7 @@ const Utils = {
 
   formatCategory(category) {
     let categoria = category.toUpperCase();
+
     return categoria;
   },
 };
@@ -131,14 +132,14 @@ const Form = {
   title: document.querySelector("input#title"),
   amount: document.querySelector("input#amount"),
   date: document.querySelector("input#date"),
-  category: document.querySelector("input#category"),
+  category: document.querySelector("#category"),
 
   getValues() {
     return {
       title: Form.title.value,
       amount: Form.amount.value,
       date: Form.date.value,
-      category: Form.category.value,
+      category: Form.category.options[category.selectedIndex].value, 
     };
   },
 
