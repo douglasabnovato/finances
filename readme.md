@@ -79,6 +79,11 @@ Fazer uma aplicação de controle financeiro pessoal (SenFinança). Na aplicaç�
 #### 📅 Referências
 
 - [Projeto Inspiração](https://senfinanca-sensedata.netlify.app/)
+- [touppercase](https://www.w3schools.com/jsref/jsref_touppercase.asp#:~:text=The%20toUpperCase()%20method%20converts,not%20change%20the%20original%20string.)
+- [capturar valor de um Select](https://www.youtube.com/watch?v=Nwh7zHicmwU)
+- [replace string](https://www.devmedia.com.br/javascript-replace-substituindo-valores-em-uma-string/39176)
+- [Date](https://blog.betrybe.com/javascript/javascript-date/)
+- [data atual](https://www.freecodecamp.org/portuguese/news/date-now-em-javascript-como-obter-a-data-atual-em-javascript/) 
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
  
