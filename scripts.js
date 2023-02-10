@@ -1,6 +1,18 @@
 const Modal = {
+  autoDate(){
+    let dateNow = document.querySelector("input#date");
+    let timeElapsed = new Date();
+
+    timeElapsed = timeElapsed.toLocaleDateString();
+
+    let splittedDate = timeElapsed.split("/");
+    let calendar = splittedDate[2] +"-"+ splittedDate[1] +"-"+ splittedDate[0];
+
+    dateNow.value = calendar;
+  },  
   open() {
     document.querySelector(".modal-overlay").classList.add("active");
+    Modal.autoDate()
   },
   close() {
     document.querySelector(".modal-overlay").classList.remove("active");
@@ -123,7 +135,6 @@ const Utils = {
 
   formatCategory(category) {
     let categoria = category.toUpperCase();
-
     return categoria;
   },
 };
